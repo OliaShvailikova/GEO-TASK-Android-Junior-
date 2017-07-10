@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">map</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_from">Map</string>
+    <string name="title_activity_find_direction">Map</string>
+    <string name="str_atv_places">Enter Place Here</string>
+    <string name="save_location">Save Location</string>
+    <string name="delete_location">Delete Location</string>
+    <string name="find_path">Find Path</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="empty_origin">Please enter origin address!</string>
+    <string name="empty_destination">"Please enter destination address!"</string>
+    <string name="no_location_found">No Location found</string>
+    <string name="unknown">Unknown</string>
+    <string name="found">Found</string>
+    <string name="wait_for_direction">Please wait.</string>
+    <string name="find_a_direction">Finding direction..!</string>
+</resources>
