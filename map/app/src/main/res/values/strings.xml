@@ -3,7 +3,7 @@
     <string name="title_activity_maps">Map</string>
     <string name="title_activity_from">Map</string>
     <string name="title_activity_find_direction">Map</string>
-    <string name="str_atv_places">Enter Place Here</string>
+    <string name="str_atv_places">Enter Place Here And Press Save Button</string>
     <string name="save_location">Save Location</string>
     <string name="delete_location">Delete Location</string>
     <string name="find_path">Find Path</string>
